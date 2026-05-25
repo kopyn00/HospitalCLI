@@ -1,6 +1,7 @@
 # ConsoleAppHospital
 
-A simple console application for managing hospital employees.
+A simple console application for managing hospital employees.  
+Built as part of the **Kampa Play** challenge: https://www.youtube.com/watch?v=XRlCUK7iOco&t=314s
 
 ## Features
 
